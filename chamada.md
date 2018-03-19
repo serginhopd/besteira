@@ -14,3 +14,5 @@
 |-----------------------------------|---------------------|
 |Matheus Lemos Dantas               | @mld2000            |
 |                                   |                     |
+| Thyago Ismael Oliveira da Silva   | @thyagoismael       |
+|                                   |                     |
