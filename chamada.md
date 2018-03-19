@@ -14,3 +14,4 @@
 |-----------------------------------|---------------------|
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
 | Adriano Pedro Couto Dos Santos    | @adroutos                     |
+| Eduardo Vinicius Guerra Da Costa  | @eduardovgdc        |
