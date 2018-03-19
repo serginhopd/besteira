@@ -12,6 +12,9 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
+|Matheus Lemos Dantas               | @mld2000            |
+|                                   |                     |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-| Adriano Pedro Couto Dos Santos    | @adroutos                     |
-| Samuel Cabral De Lima             | @samclima           |
+| Adriano Pedro Couto Dos Santos    | @adroutos           |
+| Arthur Cabral Fleischman          | @TKfleBR            |
+|Samuel Cabral De Lima              | @samclima           |
