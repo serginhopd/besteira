@@ -12,4 +12,7 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-|Jade Almeida Pinheiro de Sousa     |@Jadealmeida         ||                                   |                     |
+|                                   |         ||                                   |                     |
+| Thyago Ismael Oliveira da Silva   | @thyagoismael       |
+|Jade almeida Pinheiro de Sousa     | @Jadealmeida        |
+
