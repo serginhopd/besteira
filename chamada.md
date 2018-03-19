@@ -13,5 +13,5 @@
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-|  Juliane Rocha Macedo Coutinho    | @jrmc734            |
-|                                   |                     |
+| Adriano Pedro Couto Dos Santos    | @adroutos           |
+| Juliane Rocha Macedo Coutinho     | @jrmc734            |
