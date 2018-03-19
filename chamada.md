@@ -25,3 +25,5 @@
 | Juliane Rocha Macedo Coutinho     | @jrmc734            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
 | Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |
+
+| Raquel Gomes da Silva             | @raquelgomes26      |
