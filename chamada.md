@@ -12,5 +12,4 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-|                                   |                     |
-|                                   |                     |
+|Jade Almeida Pinheiro de Sousa     |@Jadealmeida         ||                                   |                     |
