@@ -12,6 +12,9 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
+|Matheus Lemos Dantas               | @mld2000            |
+| Eduardo Vinicius Guerra da Costa  | @eduardovgdc        |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
 | Adriano Pedro Couto Dos Santos    | @adroutos                     |
-| Eduardo Vinicius Guerra Da Costa  | @eduardovgdc        |
+| Arthur Cabral Fleischman          | @TKfleBR            |
+
