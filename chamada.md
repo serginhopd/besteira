@@ -17,11 +17,10 @@
 | Adriano Pedro Couto Dos Santos    | @adroutos           |   
 | Arthur Cabral Fleischman          | @TKfleBR            |
 |Matheus Lemos Dantas               | @mld2000            |
-|                                   |                     |
-| Thyago Ismael Oliveira da Silva   | @thyagoismael       |
 | Adriano Pedro Couto Dos Santos    | @adroutos           |
 |                                   |                     |
 |Samuel Cabral De Lima              | @samclima           |
 | Juliane Rocha Macedo Coutinho     | @jrmc734            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
 | Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |
+| Eduardo Vinicius Guerra da Costa  | @eduardovgdc        |
