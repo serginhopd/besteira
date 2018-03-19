@@ -12,5 +12,5 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-|                                   |                     |
+|Vinicius Araujo Germano Romao      |  @ViniciusAraujoGR  |                     
 |                                   |                     |
