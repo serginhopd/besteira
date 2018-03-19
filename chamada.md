@@ -14,5 +14,5 @@
 |-----------------------------------|---------------------|
 |                                   |         ||                                   |                     |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-|Jade almeida Pinheiro de Sousa     | @Jadealmeida        |
-
+| Adriano Pedro Couto Dos Santos    | @adroutos                     |
+| Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
