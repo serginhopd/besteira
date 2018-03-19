@@ -20,7 +20,7 @@
 |                                   |                     |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
 | Adriano Pedro Couto Dos Santos    | @adroutos           |
-| Arthur Cabral Fleischman          | @TKfleBR            |
+|                                   |                     |
 |Samuel Cabral De Lima              | @samclima           |
 | Juliane Rocha Macedo Coutinho     | @jrmc734            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
