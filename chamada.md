@@ -6,7 +6,7 @@
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
 | Bernardo de Azevedo Moreira       | @BAMoreira          |
-|                                   |                     |
+| Jose Victor Barbosa da Silva      | @josevictor022      |
 
 ###### Alunos:
 
