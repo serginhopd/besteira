@@ -14,5 +14,6 @@
 |-----------------------------------|---------------------|
 |                                   |         ||                                   |                     |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-| Adriano Pedro Couto Dos Santos    | @adroutos                     |
+| Adriano Pedro Couto Dos Santos    | @adroutos           |   
+| Arthur Cabral Fleischman          | @TKfleBR            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
