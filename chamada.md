@@ -18,11 +18,13 @@
 | Arthur Cabral Fleischman          | @TKfleBR            |
 |Matheus Lemos Dantas               | @mld2000            |
 | Adriano Pedro Couto Dos Santos    | @adroutos           |
-| Arthur Cabral Fleischman          | @TKfleBR            |
+|                                   |                     |
 |Samuel Cabral De Lima              | @samclima           |
 | Juliane Rocha Macedo Coutinho     | @jrmc734            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
 | Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   
 | Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |
 | Eduardo Vinicius Guerra da Costa  | @eduardovgdc        |
-| Leandro De Menezes Galindo Filho  | @Leandrogalindo     |
+| Raquel Gomes da Silva             | @raquelgomes26      |
+| Leandro de Menezes Galindo Filho  | @Leandrogalindo     |
+
