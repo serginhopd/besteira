@@ -24,4 +24,5 @@
 |Samuel Cabral De Lima              | @samclima           |
 | Juliane Rocha Macedo Coutinho     | @jrmc734            |
 | Jade Almeida Pinheiro de Sousa    | @Jadealmeida        |
-| Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |
+| Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   
+| Leandro De Menezes Galindo F.     | @Leandrogalindo     |
