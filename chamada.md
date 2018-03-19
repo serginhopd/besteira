@@ -18,3 +18,5 @@
 | Adriano Pedro Couto Dos Santos    | @adroutos           |
 | Arthur Cabral Fleischman          | @TKfleBR            |
 |Samuel Cabral De Lima              | @samclima           |
+|Kellen Emanuele Alves Miranda      | @kellenemanuelle    |
+
