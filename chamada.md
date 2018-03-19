@@ -13,5 +13,6 @@
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-| Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |                                   
-                                                        
+| Adriano Pedro Couto Dos Santos    | @adroutos           |
+| Arthur Cabral Fleischman          | @TKfleBR            |
+| Vinicius Araujo Germano Romao     | @ViniciusAraujoGR   |
