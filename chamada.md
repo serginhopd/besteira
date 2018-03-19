@@ -12,5 +12,5 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-|                                   |                     |
+| Thyago Ismael Oliveira da Silva   | @thyagoismael       |
 |                                   |                     |
