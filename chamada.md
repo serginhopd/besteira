@@ -12,5 +12,5 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-|                                   |                     |
+| Juliane Rocha Macedo Coutinho     | @jrmc734            |
 |                                   |                     |
