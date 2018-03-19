@@ -13,4 +13,4 @@
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-|                                   |                     |
+|Samuel Cabral de Lima              | @samclima           |
