@@ -12,5 +12,6 @@
 
 |Nome                               |Usuário git          |
 |-----------------------------------|---------------------|
-| Juliane Rocha Macedo Coutinho     | @jrmc734            |
+| Thyago Ismael Oliveira da Silva   | @thyagoismael       |
+|  Juliane Rocha Macedo Coutinho    | @jrmc734            |
 |                                   |                     |
