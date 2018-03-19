@@ -15,6 +15,7 @@
 |Matheus Lemos Dantas               | @mld2000            |
 | Eduardo Vinicius Guerra da Costa  | @eduardovgdc        |
 | Thyago Ismael Oliveira da Silva   | @thyagoismael       |
-| Adriano Pedro Couto Dos Santos    | @adroutos                     |
+| Adriano Pedro Couto Dos Santos    | @adroutos           |
 | Arthur Cabral Fleischman          | @TKfleBR            |
+|Samuel Cabral De Lima              | @samclima           |
 
