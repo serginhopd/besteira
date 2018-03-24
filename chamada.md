@@ -27,6 +27,6 @@
 | Raquel Gomes da Silva             | @raquelgomes26      |
 | Leandro de Menezes Galindo Filho  | @Leandrogalindo     |
 | Kellen Emanuele Alves Miranda     | @kellenemanuelle    |
-
+| Lucas Tejo Sena                   | @lucas-sena         |
 
 
